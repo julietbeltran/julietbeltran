@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/julietbeltran/static/css/main.aa678c39.css",
-    "main.js": "/julietbeltran/static/js/main.6e06ff2e.js",
+    "main.css": "/julietbeltran/static/css/main.3d49a9dc.css",
+    "main.js": "/julietbeltran/static/js/main.0c7a4922.js",
+    "static/media/profile.png": "/julietbeltran/static/media/profile.6f1f858e188b9deda737.png",
     "index.html": "/julietbeltran/index.html",
-    "main.aa678c39.css.map": "/julietbeltran/static/css/main.aa678c39.css.map",
-    "main.6e06ff2e.js.map": "/julietbeltran/static/js/main.6e06ff2e.js.map"
+    "main.3d49a9dc.css.map": "/julietbeltran/static/css/main.3d49a9dc.css.map",
+    "main.0c7a4922.js.map": "/julietbeltran/static/js/main.0c7a4922.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa678c39.css",
-    "static/js/main.6e06ff2e.js"
+    "static/css/main.3d49a9dc.css",
+    "static/js/main.0c7a4922.js"
   ]
 }
