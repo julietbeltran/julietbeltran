@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/julietbeltran/static/css/main.aa678c39.css",
+    "main.js": "/julietbeltran/static/js/main.6e06ff2e.js",
+    "index.html": "/julietbeltran/index.html",
+    "main.aa678c39.css.map": "/julietbeltran/static/css/main.aa678c39.css.map",
+    "main.6e06ff2e.js.map": "/julietbeltran/static/js/main.6e06ff2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa678c39.css",
+    "static/js/main.6e06ff2e.js"
+  ]
+}
